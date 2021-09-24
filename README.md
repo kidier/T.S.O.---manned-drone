@@ -1,5 +1,6 @@
 # T.S.O.---manned-drone
-Ongoing project of science club with compleated test
+Ongoing project of science club with compleated test.
+
 ![v1](https://user-images.githubusercontent.com/53048230/134533641-33745719-ea7d-4be7-a9f8-a37255f3ecae.JPG)
 ![v2](https://user-images.githubusercontent.com/53048230/134533648-74167577-4dd7-4143-adf3-c61edff990bc.JPG)
 ![v3](https://user-images.githubusercontent.com/53048230/134533655-d3e2d430-5b9c-4266-b32a-3ef4917ccce7.JPG)
